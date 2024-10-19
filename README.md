@@ -60,7 +60,7 @@ git clone https://github.com/mlbelobraydi/TXRRC_data_harvest.git
 cd TXRRC_data_harvest
 
 # Install the requried packages in the virtualenv.
-pip -r requirements.txt
+pip install -r requirements.txt
 
 # get a data file to work with
 mkdir data
